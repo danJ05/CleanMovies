@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\CleanMovie\CleanMovie.Application\bin\Debug\net6.0\CleanMovie.Application.deps.json
+C:\Users\DELL\source\repos\CleanMovie\CleanMovie.Application\bin\Debug\net6.0\CleanMovie.Application.dll
+C:\Users\DELL\source\repos\CleanMovie\CleanMovie.Application\bin\Debug\net6.0\CleanMovie.Application.pdb
+C:\Users\DELL\source\repos\CleanMovie\CleanMovie.Application\bin\Debug\net6.0\CleanMovie.Domain.dll
+C:\Users\DELL\source\repos\CleanMovie\CleanMovie.Application\bin\Debug\net6.0\CleanMovie.Domain.pdb
+C:\Users\DELL\source\repos\CleanMovie\CleanMovie.Application\obj\Debug\net6.0\CleanMovie.Application.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\CleanMovie\CleanMovie.Application\obj\Debug\net6.0\CleanMovie.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\CleanMovie\CleanMovie.Application\obj\Debug\net6.0\CleanMovie.Application.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\CleanMovie\CleanMovie.Application\obj\Debug\net6.0\CleanMovie.Application.AssemblyInfo.cs
+C:\Users\DELL\source\repos\CleanMovie\CleanMovie.Application\obj\Debug\net6.0\CleanMovie.Application.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\CleanMovie\CleanMovie.Application\obj\Debug\net6.0\CleanMovie.Application.csproj.CopyComplete
+C:\Users\DELL\source\repos\CleanMovie\CleanMovie.Application\obj\Debug\net6.0\CleanMovie.Application.dll
+C:\Users\DELL\source\repos\CleanMovie\CleanMovie.Application\obj\Debug\net6.0\refint\CleanMovie.Application.dll
+C:\Users\DELL\source\repos\CleanMovie\CleanMovie.Application\obj\Debug\net6.0\CleanMovie.Application.pdb
+C:\Users\DELL\source\repos\CleanMovie\CleanMovie.Application\obj\Debug\net6.0\ref\CleanMovie.Application.dll
